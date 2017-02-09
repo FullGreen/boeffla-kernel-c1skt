@@ -10,7 +10,7 @@
 # Parameters to be configured manually
 #######################################
 
-BOEFFLA_VERSION="6.0-alpha-CM14.1-i9300"
+BOEFFLA_VERSION="6.0-alpha-CM14.1-c1skt"
 
 TOOLCHAIN="/opt/toolchains/arm-eabi-4.8/bin/arm-eabi-"
 ARCHITECTURE=arm
@@ -24,7 +24,7 @@ DTBTOOL_CMD=""
 MODULES_IN_SYSTEM="y"
 OUTPUT_FOLDER=""
 
-DEFCONFIG="boeffla_defconfig"
+DEFCONFIG="boeffla_c1skt_defconfig"
 DEFCONFIG_VARIANT=""
 
 KERNEL_NAME="Boeffla-Kernel"
